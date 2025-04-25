@@ -57,6 +57,14 @@ Ensure following installed:
 
 6. The server will start on port `3000` by default. You can make requests to `http://localhost:3000/api/contacts` or `http://localhost:3000/identify`.
 
+
+## Deployed Endpoint
+
+You can access the service at the following endpoint:
+
+- **/identify**: `https://identity-reconciliation-msx0.onrender.com/api/contacts`
+
+
 ### API Endpoints
 
 #### **POST /identify**
